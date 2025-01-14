@@ -1,3 +1,7 @@
 # My Project
 ## Another update
-Changes in main branch
+<<<<<<< HEAD
+Changes in README.md
+=======
+Changes in conflict branch
+>>>>>>> conflict-branch
